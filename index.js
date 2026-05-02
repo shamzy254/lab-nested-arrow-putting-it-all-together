@@ -21,3 +21,7 @@ function createLoginTracker(userInfo) {
     }
   };
 }
+
+module.exports = {
+  createLoginTracker,
+};
